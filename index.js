@@ -764,7 +764,7 @@ function chatModule(bot) {
       if (config.chat.respond) {
         const lowerMsg = message.toLowerCase();
         if (lowerMsg.includes('hello') || lowerMsg.includes('hi')) {
-          bot.chat(`Hello, ${username}!`);
+          bot.chat(`Hello Cái Cục Cứt Gì? ${username}!`);
         }
         if (message.startsWith('!tp ') && config.chat.respond) {
           const target = message.split(' ')[1];

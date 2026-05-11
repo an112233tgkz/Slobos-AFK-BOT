@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "nile.hidencloud.com",
-    "port": 24577,
+    "port": 2457,
     "version": "1.21.11"
   },
   "position": {
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Hello tao là bot treo 24/7",
+        "Hello tao là bot treo 247",
       ]
     },
     "chat-log": true,

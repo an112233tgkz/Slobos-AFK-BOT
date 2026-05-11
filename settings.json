@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nile.hidencloud.com",
-    "port": 24577,
+    "ip": "stevesmp.fun",
+    "port": 25565,
     "version": "1.21.11"
   },
   "position": {

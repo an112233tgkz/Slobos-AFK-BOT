@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "nile.hidencloud.com",
-    "port": 2457,
+    "port": 24577,
     "version": "1.21.11"
   },
   "position": {
